@@ -6,7 +6,7 @@ I use Java as my main programming language and mostly work at the back-end part 
 ## Dev Tools
 [Intellij IDEA](https://www.jetbrains.com/idea/)  
 [Visual Studio Code](https://code.visualstudio.com/)  
-[Docker Desktop](https://www.docker.com/products/docker-desktop/)
+[Docker Desktop](https://www.docker.com/products/docker-desktop/) - container tool  
 [pgAdmin](https://www.pgadmin.org/) - database viewer  
 [Jenkins](https://www.jenkins.io/) - CI/CD  
 [Argo](https://argoproj.github.io/) - K8s cluster manager  
