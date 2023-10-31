@@ -15,7 +15,8 @@ I use Java as my main programming language and mostly work at the back-end part 
 [Postman](https://www.postman.com/) - API Testing & Automation  
 
 ## Other Tools
-[Obsidian](https://obsidian.md/)
+[Obsidian](https://obsidian.md/)    
 [Jira](https://www.atlassian.com/software/jirahttps://www.atlassian.com/software/jira?&aceid=&adposition=&adgroup=140448864863&campaign=18451798950&creative=656629726793&device=c&keyword=jira&matchtype=e&network=g&placement=&ds_kids=p73363375466&ds_e=GOOGLE&ds_eid=700000001558501&ds_e1=GOOGLE&gad_source=1&gclid=Cj0KCQjwqP2pBhDMARIsAJQ0CzqEG-5k9fB0v_s3Udy8Ro0He2gIZfZ3E2MWZcL9AtNzGPxQ6Evnt_saAjT2EALw_wcB&gclsrc=aw.ds)
+
 ## Languages and Frameworks
 Java(SpringBoot), Javascript (React.js), Css, Html
