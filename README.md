@@ -4,15 +4,15 @@ I am a passionate programmer ready to learn new things and improve my current sk
 I use Java as my main programming language and mostly work at the back-end part of the development world, but I'm currently learning React and plan to improve my front-end skills to become an experienced full-stack developer.
 
 ## Dev Tools
-[Intellij IDEA](https://www.jetbrains.com/idea/)
-[Visual Studio Code](https://code.visualstudio.com/)
-[pgAdmin](https://www.pgadmin.org/) - database viewer
-[Jenkins](https://www.jenkins.io/) - CI/CD
-[Argo](https://argoproj.github.io/) - K8s cluster manager
-[ElasticSearch](https://www.elastic.co/) - log tracking
-[Akhq](https://akhq.io/) - Kafka monitoring
-[Apicurio Registry](https://www.apicur.io/registry/) - Avro schema registry
-[Postman](https://www.postman.com/) - API Testing & Automation
+[Intellij IDEA](https://www.jetbrains.com/idea/)  
+[Visual Studio Code](https://code.visualstudio.com/)  
+[pgAdmin](https://www.pgadmin.org/) - database viewer  
+[Jenkins](https://www.jenkins.io/) - CI/CD  
+[Argo](https://argoproj.github.io/) - K8s cluster manager  
+[ElasticSearch](https://www.elastic.co/) - log tracking  
+[Akhq](https://akhq.io/) - Kafka monitoring  
+[Apicurio Registry](https://www.apicur.io/registry/) - Avro schema registry   
+[Postman](https://www.postman.com/) - API Testing & Automation  
 
 ## Other Tools
 [Obsidian](https://obsidian.md/)
