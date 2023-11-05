@@ -30,7 +30,7 @@ Following projects represents the microservices of a fictional store.\
 [account-manager](https://github.com/thomasdang1996/account-manager-be) - supporting service  for managing user accounts\
 [message-broker](https://github.com/thomasdang1996/message-broker) - service acting as a messaging bridge between services
 
-Communication between the services are either via REST or Kafka messaging. Following diagram shows, how Kafka message travels through a message broker.
+Communication between the services are either via REST or Kafka messaging. Following diagram shows how Kafka message travels through a message broker.
 ```mermaid
 sequenceDiagram
     pear-store-be->>message-broker: CreateAccountPayload
