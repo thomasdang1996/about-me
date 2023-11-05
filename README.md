@@ -21,3 +21,19 @@ I use Java as my main programming language and mostly work at the back-end part 
 
 ## Languages and Frameworks
 Java(SpringBoot), Javascript (React.js), Css, Html
+
+### GitHub Projects
+
+Following projects represents the microservices of a fictional store.\
+[pear-store-fe](https://github.com/thomasdang1996/pear-store-fe)- front-end part of the application\
+[pear-store-be](https://github.com/thomasdang1996/pear-store-be) - core service of the application with basic APIs\
+[account-manager](https://github.com/thomasdang1996/account-manager-be) - supporting service  for managing user accounts\
+[message-broker](https://github.com/thomasdang1996/message-broker) - service acting as a messaging bridge between services
+
+Communication between the services are either via REST or Kafka messaging. Following diagram shows, how Kafka message travels through a message broker.
+```mermaid
+sequenceDiagram
+    pear-store-be->>message-broker: CreateAccountPayload
+    message-broker->>account-manager: CreateAccountPayload
+```
+
